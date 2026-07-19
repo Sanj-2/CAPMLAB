@@ -12,7 +12,7 @@ st.set_page_config(page_title="CAPM",
                    page_icon=":moneybag:",layout="wide")
 
 st.title("Capital Asset Pricing Model 💰")
-st.markdown('###### Made with 💙 by Tanmay Chakrabarty | [↗ to github](https://github.com/tanmaychk) | [↗ to Portfolio website](https://tanmaychk.netlify.app)')
+st.markdown('###### Made with 💙 by Sanjeev Sharma | [↗ to github](https://github.com/Sanj-2/CAPMLAB)')
 st.caption("The Capital Asset Pricing Model (CAPM) describes the relationship between systematic risk, or the general perils of investing, and expected return for assets, particularly stocks.It is a finance model that establishes a linear relationship between the required return on an investment and risk.")
 st.subheader("assumed risk free return = 4.5%")
 #Inputs
